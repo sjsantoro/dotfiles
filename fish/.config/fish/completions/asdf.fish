@@ -1,0 +1,1 @@
+/home/santi/.asdf/completions/asdf.fish
