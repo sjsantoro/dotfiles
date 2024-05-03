@@ -1,4 +1,4 @@
-set EDITOR nvim
+set -gx EDITOR nvim
 
 alias vi=nvim
 alias sail='./vendor/bin/sail'
